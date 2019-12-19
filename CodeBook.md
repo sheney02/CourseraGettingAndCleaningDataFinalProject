@@ -1,16 +1,3 @@
----
-title: "Code Book"
-author: "Nick Shenefield - Coursera"
-date: "12/18/2019"
-output:
-  html_document:
-    df_print: paged
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Code Book
 
 The run_analysis.r script executes the data prep and then performs each step in a stepwise manner in which the data is tidyed up into a 'FinalData' Table.

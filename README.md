@@ -1,14 +1,3 @@
----
-title: "README"
-author: "Nick Shenefield - Coursera"
-date: "12/19/2019"
-output: word_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Peer Graded Assignment for the Getting and Cleaning Data Coursera Course Project
 
 This repository was created by Nicholas Shenefield and submitted to the Getting and Cleaning Data Course for coursera as my final course project. It has the directions on how to run an analysis on the Human Activity recognition dataset provided by the course facilitators.
